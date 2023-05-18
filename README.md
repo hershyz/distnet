@@ -1,5 +1,5 @@
 # distnet
-Distribution-based inference model for classification problems.
+Distribution-based inference model for ML classification problems.
 
 Manual feature training:
 ```python
